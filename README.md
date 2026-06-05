@@ -73,7 +73,7 @@ Predicts insurance premium category based on user inputs.
 **Response:**
 ```json
 {
-  "result": "Gold"
+  "result": "High"
 }
 ```
 
