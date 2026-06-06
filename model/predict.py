@@ -7,7 +7,7 @@ with open("model/model.pkl", "rb") as f:
 
 
 #can use MLFlow
-MODEL_VERSION = "1.0.0"
+MODEL_VERSION = "1.0.2"
 
 classes_list = model.classes_.tolist()
 print(classes_list)
