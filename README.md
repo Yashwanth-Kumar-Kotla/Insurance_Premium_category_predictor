@@ -206,7 +206,7 @@ CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
 
 ## 🔗 Links
 
-- **GitHub Repository:** [Insurance_Premium_category_predictor](https://github.com/Yashwanth-Kumar-Kotla/Insurance_Premium_category_predictor)
+- **GitHub Repository:** [Insurance_Premium_category_predictor](https://github.com/Yashwanth-Kumar-Kotla/Insurance_Premium_category_predictor)  | [Live Demo](https://insurance-cat.streamlit.app/)
 - **Docker Hub Image:** [yashkotla/streamlit-insurance-cat-predictor](https://hub.docker.com/r/yashkotla/streamlit-insurance-cat-predictor)
 - **Portfolio:** [yashwanthportfolio.vercel.app](https://yashwanthportfolio.vercel.app)
 
